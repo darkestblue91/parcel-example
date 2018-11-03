@@ -25,5 +25,5 @@ yarn run dev
 Create a production bundle for your server.
 
 ```
-yarn run dev
+yarn run prod
 ```

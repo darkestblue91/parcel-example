@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+#Parcel cache files
+.cache
+
+#Parcel compiled files
+dist/
+
+#Parcel production custom path files
+prod/

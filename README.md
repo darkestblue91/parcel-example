@@ -17,7 +17,6 @@ yarn install
 Start development of your app.
 
 ```
-yarn install
 yarn run dev
 ```
 
@@ -26,6 +25,5 @@ yarn run dev
 Create a production bundle for your server.
 
 ```
-yarn install
 yarn run dev
 ```

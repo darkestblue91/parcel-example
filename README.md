@@ -1,4 +1,4 @@
-# parcel-example
+# Parcel example with basic React
 
 Parcel bundler example with simple React app.
 
